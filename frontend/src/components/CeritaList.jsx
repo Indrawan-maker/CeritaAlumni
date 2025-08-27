@@ -5,7 +5,7 @@ export default function CeritaList() {
         <>
         <section className="">
             <div className="mt-22">
-            <h1 className="text-xl font-bold comfortaa-custom text-center">Cerita dari Alumni-alulmni</h1>
+            <h1 className="text-xl font-bold comfortaa-custom text-center">Cerita dari Alumni-alumni</h1>
             </div>
             <Card />
         </section>
